@@ -1,0 +1,2 @@
+Version 0.4 implemented Java action listener and UDP socket. Which made the message could be converied from server to client.
+By using UDP socket, this version could convey message from server to Client.
