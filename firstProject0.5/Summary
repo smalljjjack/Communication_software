@@ -1,0 +1,2 @@
+char version 0.5
+In this version, I implemented mutiple thread programming. The communication between server and client became more fluency.
